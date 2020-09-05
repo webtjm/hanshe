@@ -1,0 +1,17 @@
+@charset 'utf-8';
+
+@font-face {
+    font-family: 'gongyeMin';
+    src: url('思源宋体SC-Heavy.otf');
+}
+
+@font-face {
+    font-family: 'hanzhenMin';
+    src: url('思源宋体SC-Heavy.otf')
+}
+
+@font-face {
+    font-family: 'hansansMin';
+    src: url('思源宋体SC-Heavy.otf')
+}
+
